@@ -1,17 +1,25 @@
-[## Hi there 👋
+# 👋 Hi, I'm Yusuf
 
-<!--
-**yusufEternal/yusufEternal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Engineering student** at Çanakkale 18 Mart University and a developer who loves building creative solutions in software, AI, and system design.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 3rd year Computer Engineering student  
+- 💻 Interested in **AI, backend, cybersecurity, and software architecture**
+- 🌌 Big fan of space technologies and philosophy  
+- 🔧 Always learning, building, and experimenting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://github.com/yusufEternal)
+## 🛠️ Tech Stack
+- **Languages:** C, Java, Python, JavaScript  
+- **Tools:** Git, VS Code, Xcode  
+- **Interests:** AI, system design, cybersecurity, space engineering  
+
+## 📂 Projects
+I will start sharing my projects here soon — stay tuned!
+
+## 📫 Contact
+- GitHub: [yusufEternal](https://github.com/yusufEternal)
+- Email: (add if you want)
+
+---
+
+⭐️ **If you like my work, feel free to follow or star my repos!**
