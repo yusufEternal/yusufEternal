@@ -9,16 +9,16 @@ I’m a **Computer Engineering student** at Çanakkale 18 Mart University and a 
 - 🔧 Always learning, building, and experimenting  
 
 ## 🛠️ Tech Stack
-- **Languages:** C, Java, Python, JavaScript  
-- **Tools:** Git, VS Code, Xcode  
+- **Languages:** C, Swift, Java, Python, JavaScript  
+- **Tools:** Git, VS Code, Xcode, SQL
 - **Interests:** AI, system design, cybersecurity, space engineering  
 
 ## 📂 Projects
 I will start sharing my projects here soon — stay tuned!
 
 ## 📫 Contact
-- GitHub: [yusufEternal](https://github.com/yusufEternal)
-- Email: (add if you want)
+- Linkedin: [yusufEternal](https://www.linkedin.com/in/yusufeternal/)
+- Email: yusufyuksel.eternal@gmail.com
 
 ---
 
