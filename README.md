@@ -17,8 +17,8 @@ I’m a **Computer Engineering student** at Çanakkale 18 Mart University and a 
 I will start sharing my projects here soon — stay tuned!
 
 ## 📫 Contact
-- Linkedin: [yusufEternal](https://www.linkedin.com/in/yusufeternal/)
-- Email: yusufyuksel.eternal@gmail.com
+- Linkedin: [Yusuf Yüksel](https://www.linkedin.com/in/yusufyukseldev)
+- Email: yusufyuksel.dev@gmail.com
 
 ---
 
